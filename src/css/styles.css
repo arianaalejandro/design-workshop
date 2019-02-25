@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+}
+
+h1   {
+    color: darkblue;
+    font-size: x-large;
+}
+
+p    {
+    color: #FF0000;
+    font-size: medium;
+}
+
+#datetime{
+    font-size: medium;
+    color:black;
+}
